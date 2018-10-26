@@ -5,3 +5,5 @@ public
 
 config/*
 !config/_sample.json
+.idea
+docker/data
